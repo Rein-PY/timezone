@@ -1,0 +1,99 @@
+INFO:root:Thu Oct 29 04:20:05 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 04:20:05 2020 Reinkor_Lor#8400. Запрос на: Gamuni
+INFO:root:Thu Oct 29 04:20:05 2020 Done!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:root:Thu Oct 29 08:21:40 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 08:21:40 2020 Reinkor_Lor#8400. Запрос на: Gamuni
+INFO:root:Thu Oct 29 08:21:40 2020 Done!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:root:Thu Oct 29 09:23:17 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 09:23:17 2020 Reinkor_Lor#8400. Запрос на: Reinkor_Lor
+INFO:root:Thu Oct 29 09:23:17 2020 Done!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:root:Thu Oct 29 06:25:38 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 06:25:38 2020 Reinkor_Lor#8400. Запрос на: skillee
+INFO:root:Thu Oct 29 06:25:38 2020 Done!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:root:Thu Oct 29 06:26:39 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 06:26:39 2020 Reinkor_Lor#8400. Запрос на: skillee
+INFO:root:Thu Oct 29 06:26:39 2020 Done!
+INFO:root:Thu Oct 29 06:27:55 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 06:27:55 2020 Reinkor_Lor#8400. Запрос на: skillee
+INFO:root:Thu Oct 29 06:27:55 2020 Done!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:root:Thu Oct 29 09:28:35 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Thu Oct 29 09:28:35 2020 Reinkor_Lor#8400. Запрос на: skillee
+INFO:root:Thu Oct 29 09:28:35 2020 Done!
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-h9xh",{"micros":551,"calls":["discord-sessions-prd-2-110",{"micros":16}]}].
+INFO:discord.gateway:Websocket closed with 1006, attempting a reconnect.
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-zvwd",{"micros":3388,"calls":["discord-sessions-prd-2-110",{"micros":16}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-vb6b",{"micros":510,"calls":["discord-sessions-prd-2-110",{"micros":14}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-cz6d",{"micros":1228,"calls":["discord-sessions-prd-2-110",{"micros":13}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-0pdg",{"micros":2255,"calls":["discord-sessions-prd-2-110",{"micros":17}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-8n7x",{"micros":2161,"calls":["discord-sessions-prd-2-110",{"micros":17}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-vlh7",{"micros":561,"calls":["discord-sessions-prd-2-110",{"micros":16}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-87qv",{"micros":3035,"calls":["discord-sessions-prd-2-110",{"micros":28}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-vbhs",{"micros":2022,"calls":["discord-sessions-prd-2-110",{"micros":16}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-cxzk",{"micros":781,"calls":["discord-sessions-prd-2-110",{"micros":24}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-6rz6",{"micros":1334,"calls":["discord-sessions-prd-2-110",{"micros":15}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-cxzk",{"micros":686,"calls":["discord-sessions-prd-2-110",{"micros":13}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-sk2s",{"micros":3155,"calls":["discord-sessions-prd-2-110",{"micros":16}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-gznd",{"micros":1603,"calls":["discord-sessions-prd-2-110",{"micros":14}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-dq88",{"micros":999,"calls":["discord-sessions-prd-2-110",{"micros":14}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-9850",{"micros":2470,"calls":["discord-sessions-prd-2-110",{"micros":17}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-nb4z",{"micros":1251,"calls":["discord-sessions-prd-2-110",{"micros":17}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-lf78",{"micros":6677,"calls":["discord-sessions-prd-2-110",{"micros":13}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-jx8j",{"micros":4733,"calls":["discord-sessions-prd-2-110",{"micros":33}]}].

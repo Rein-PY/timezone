@@ -1,0 +1,33 @@
+INFO:root:Wed Oct 28 18:39:58 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Wed Oct 28 18:39:58 2020 Reinkor_Lor#8400. Запрос на: Gamuni
+INFO:root:Wed Oct 28 18:39:58 2020 Done!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:root:Wed Oct 28 23:33:20 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Wed Oct 28 23:33:20 2020 Reinkor_Lor#8400. Запрос на: Gamuni
+INFO:root:Wed Oct 28 23:33:20 2020 Done!
+INFO:root:Wed Oct 28 23:36:55 2020 Reinkor_Lor#8400 Program "!calc" started
+INFO:root:Wed Oct 28 23:39:19 2020 Reinkor_Lor#8400 Program "!calc" started
+INFO:root:Wed Oct 28 23:42:55 2020 Reinkor_Lor#8400 Program "!time" started
+INFO:root:Wed Oct 28 23:42:55 2020 Reinkor_Lor#8400. Запрос на: Reinkor_Lor
+INFO:root:Wed Oct 28 23:42:55 2020 Done!
+INFO:root:Wed Oct 28 23:47:56 2020 Reinkor_Lor#8400 Program "!calc" started
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 77b3affc060dc927cf9566ac087bc199 under trace ["gateway-prd-main-vlh7",{"micros":927,"calls":["discord-sessions-prd-2-108",{"micros":14}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 77b3affc060dc927cf9566ac087bc199 under trace ["gateway-prd-main-mq5b",{"micros":1142,"calls":["discord-sessions-prd-2-108",{"micros":16}]}].
+INFO:discord.gateway:Websocket closed with 1006, attempting a reconnect.
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 77b3affc060dc927cf9566ac087bc199 under trace ["gateway-prd-main-jx8j",{"micros":1357,"calls":["discord-sessions-prd-2-108",{"micros":16}]}].
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 77b3affc060dc927cf9566ac087bc199 under trace ["gateway-prd-main-kdrz",{"micros":3238,"calls":["discord-sessions-prd-2-108",{"micros":12}]}].
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
