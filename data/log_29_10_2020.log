@@ -97,3 +97,12 @@ INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d
 INFO:discord.client:Got a request to RESUME the websocket.
 INFO:discord.gateway:Shard ID None has sent the RESUME payload.
 INFO:discord.gateway:Shard ID None has successfully RESUMED session 4105a46c475d46b551a63fc98ff930fb under trace ["gateway-prd-main-jx8j",{"micros":4733,"calls":["discord-sessions-prd-2-110",{"micros":33}]}].
+INFO:discord.gateway:Websocket closed with 4003, attempting a reconnect.
+INFO:discord.client:Got a request to RESUME the websocket.
+INFO:discord.gateway:Shard ID None has sent the RESUME payload.
+INFO:discord.gateway:Shard ID None session has been invalidated.
+INFO:discord.client:Got a request to IDENTIFY the websocket.
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Websocket closed with 4004, cannot reconnect.
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Closing the event loop.
